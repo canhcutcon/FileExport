@@ -139,7 +139,7 @@
                                 HorizontalAlignment="Right"
                                 VerticalAlignment="Center"
                                 Background="{x:Null}"
-                                Width="36">
+                               >
                             <materialDesign:PackIcon Kind="Power" Foreground="Red"/>
                         </Button>
                     </StackPanel>
